@@ -4,6 +4,8 @@
 // @description Regrading and speed enhancements for Canvas quizzes
 // @include     https://*.instructure.com/courses/*/gradebook/speed_grader?*
 // @include     https://*.instructure.com/courses/*/quizzes/*/history?*
+// @include     https://canvas.dartmouth.edu/courses/*/gradebook/speed_grader?*
+// @include     https://canvas.dartmouth.edu/courses/*/quizzes/*/history?*
 // @noframes
 // @version     4
 // @grant       none
